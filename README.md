@@ -1,4 +1,4 @@
-# Hi there, I'm Sudhanshu Yadav 👋
+# Hi there, I'm Sudhanshu Singh 👋
 
 ## I'm a Developer and Student! <img src="https://komarev.com/ghpvc/?username=sudhanshu442" alt="sudhanshuyadav" />
 <!-- [![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104) -->
