@@ -4,11 +4,12 @@
 <!-- [![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104) -->
 - 🔭 Currently learning to manage work and time.
 - 📘 Currently Third Year Computer Science Student.
-- 💻 Web Developer
+- 💻 Software Developer
 - 🌱 Learning Software Development 👨‍💻 
 - 💬 Always available for help. 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📕 Love to read Books.
+-  Reactjs
 
 ### Connect with me: 
 
